@@ -17,7 +17,7 @@
         <jansi.version>1.8</jansi.version>
         <hibernate.version>5.4.2.Final</hibernate.version>
         <slf4j.version>1.7.5</slf4j.version>
-        <h2database.version>1.4.196</h2database.version>
+        <h2database.version>2.0.206</h2database.version>
         <lombok.version>1.16.16</lombok.version>
         <mysql.version>5.1.45</mysql.version>
     </properties>
